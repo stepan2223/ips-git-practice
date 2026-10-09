@@ -2,7 +2,7 @@ package ips.gitdemo;
 
 public class App {
 
-    private static final String MESSAGE = "Proyecto de práctica Git";
+	private static final String MESSAGE = "Mensaje creado en la rama de conflicto";
 
     public static void main(String[] args) {
         System.out.println(MESSAGE);
