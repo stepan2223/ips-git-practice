@@ -2,7 +2,8 @@ package ips.gitdemo;
 
 public class App {
 
-	private static final String MESSAGE = "Mensaje creado en la rama de conflicto";
+	private static final String MESSAGE =
+	        "Mensaje integrado tras resolver el conflicto";
 
     public static void main(String[] args) {
         System.out.println(MESSAGE);
