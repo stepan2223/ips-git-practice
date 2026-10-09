@@ -3,7 +3,7 @@ package ips.gitdemo;
 public class App {
 
 	private static final String MESSAGE =
-	        "Mensaje integrado tras resolver el conflicto";
+	        "squash otro";
 
     public static void main(String[] args) {
         System.out.println(MESSAGE);
@@ -11,6 +11,6 @@ public class App {
     }
 
     public static String getSaludo() {
-        return "Hola desde una rama de trabajo";
+        return "Saludo";
     }
 }
